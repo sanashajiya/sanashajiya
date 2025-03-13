@@ -1,13 +1,17 @@
 <div align="center">
 
-# Hey, Fellow Developer! 👋 I'm Sana!
+<h1><b>Hey, Fellow Developer! 👋 I'm Sana!</b></h1>
+
+I'm a passionate Flutter developer who loves building mobile apps and solving complex problems. Always eager to learn and explore new technologies!
 
 </div>
 
-## 💫 About Me
+
+## 💫 **About Me**
 - 🎓 **Computer Science student at RGUKT R.K. Valley**
 - 💙 **Passionate about building mobile apps with Flutter & Firebase**
 - 💻 **Love solving problems and learning new technologies**
+
 
 ## **💻 Tech Stack**
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -37,6 +41,7 @@
 ## **❤️ Let's get connected**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/s-sana-shajiya-5bb98728a/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/SanaShajiya7)
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sanashajiya&color=blue&style=flat-square)
 
