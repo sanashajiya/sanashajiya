@@ -1,12 +1,11 @@
-#  Hey, Fellow Developer! 🚀 I'm Sana!
+# **Hey, Fellow Developer! 🚀 I'm Sana!**
 
-### 🚀 About Me
-- 🎓 Computer Science student at RGUKT R.K. Valley
-- 💙 Passionate about building mobile apps with **Flutter & Firebase**
-- 💻 Love solving problems and learning new technologies
+## **💫 About Me**
+- 🎓 **Computer Science student at RGUKT R.K. Valley**
+- 💙 **Passionate about building mobile apps with Flutter & Firebase**
+- 💻 **Love solving problems and learning new technologies**
 
-
-### 💻 Tech Stack:
+## **💻 Tech Stack**
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
@@ -28,15 +27,14 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+## GitHub Streak 🔥
 [![GitHub Streak](https://streak-stats.demolab.com?user=sanashajiya&theme=radical)](https://git.io/streak-stats)
 
-### ❤️ Let's get connected
+## **❤️ Let's get connected**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/s-sana-shajiya-5bb98728a/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/SanaShajiya7)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sanashajiya&color=blue&style=flat-square)
 
-Fun Fact - 😆 I don't make typos… my keyboard just has a mind of its own! 🤖⌨️
+### 😆 Fun Fact: I don't make typos… my keyboard just has a mind of its own! 🤖⌨️
 
-
-🚀 Let's build something awesome together!
