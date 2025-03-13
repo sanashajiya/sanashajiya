@@ -1,6 +1,10 @@
-# **Hey, Fellow Developer! 🚀 I'm Sana!**
+<div align="center">
 
-## **💫 About Me**
+# Hey, Fellow Developer! 👋 I'm Sana!
+
+</div>
+
+## 💫 About Me
 - 🎓 **Computer Science student at RGUKT R.K. Valley**
 - 💙 **Passionate about building mobile apps with Flutter & Firebase**
 - 💻 **Love solving problems and learning new technologies**
